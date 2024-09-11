@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: rgba(0, 0, 0, 0.677);
+    color: white;
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.header-right {
+    float: right;
+    color: white;
+    padding-right: 40px;
+    word-spacing: 12px;
+
+}
+
+
+.E{
+    padding: 5px;
+    margin: 10px;
+}
+.Q{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+.B{
+    display: flex;
+    padding: 10px;
+    width: 100%;
+}
+.C{
+    background-color: lightslategray;
+    width: 70%;
+}
+.D{
+    background-color:lightgreen ;
+    width: 30%;
+}
+.J{
+    margin: 5px;
+}
+.M{
+    color: white;
+    
+}
+button {
+    background-color: rgb(32, 26, 26);
+    color: white;
+    width: 100%;
+}
+
+
+    
